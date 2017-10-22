@@ -10,4 +10,5 @@ Log:
     - exercise 1.3
     - exercise 1.4
     - exercise 1.5
-
+    - exercise 1.6
+    - exercise 1.7
